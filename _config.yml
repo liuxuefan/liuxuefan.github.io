@@ -41,7 +41,7 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//http://weibo.com/xiaofan930'
+  weibo: '//weibo.com/xiaofan930'
   juejin: '//'
   instagram: '//'
   github: '//'
